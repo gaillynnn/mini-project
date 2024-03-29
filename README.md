@@ -1,1 +1,1 @@
-# mini-project
+# git-init-sample
